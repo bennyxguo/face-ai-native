@@ -3,9 +3,7 @@
     "name": "faceai-app",
     "slug": "faceai-app",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["./src/**/*", "**/*"]
   },
   "name": "faceai-app"
 }
